@@ -1,0 +1,9 @@
+Factura - Pedido #5
+Cliente: raquelia
+Dirección: carrera 78 194-32
+Items:
+corral pollo - $15000
+corral pollo - $15000
+Precio Neto: $30000
+IVA: $5700
+Precio Total: $35700

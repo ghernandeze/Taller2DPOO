@@ -1,0 +1,9 @@
+Factura - Pedido #2
+Cliente: gustavo
+Dirección: carrera 30 13-4
+Items:
+mexicana - $22000
+mexicana - $22000
+Precio Neto: $44000
+IVA: $8360
+Precio Total: $52360

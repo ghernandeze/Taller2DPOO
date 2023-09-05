@@ -1,0 +1,9 @@
+Factura - Pedido #4
+Cliente: maira
+Dirección: calle 134 21-5
+Items:
+criolla - $22000
+criolla - $22000
+Precio Neto: $44000
+IVA: $8360
+Precio Total: $52360

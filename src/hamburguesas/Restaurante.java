@@ -31,7 +31,7 @@ public class Restaurante {
 
     public void iniciarPedido(String nombreCliente, String direccionCliente) {
         pedidoEnCurso = new Pedido(nombreCliente, direccionCliente);
-        String NuevoID = String.valueOf(1);
+        String NuevoID = String.valueOf(6);
         pedidoEnCurso.setIdPedido(NuevoID);
     }
 
