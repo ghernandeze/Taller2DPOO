@@ -1,0 +1,9 @@
+Factura - Pedido #1
+Cliente: guillermo 
+Dirección: calle 127 87-12
+Items:
+corralita - $13000
+corralita - $13000
+Precio Neto: $26000
+IVA: $4940
+Precio Total: $30940
